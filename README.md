@@ -1,1 +1,1 @@
-# https-mediainformasiku.github.io.
+# https://mediainformasiku.github.io.
